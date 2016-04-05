@@ -1,5 +1,5 @@
 <?php
-Route::group(['domain' => 'wiki.stellar.{tld}'], function () 
+Route::group(['domain' => 'wiki.stellar.polymorphixgaming.com'], function () 
 {
   Route::group(['namespace' => 'Taskforcedev\Wiki\Http\Controllers'], function() 
   {
